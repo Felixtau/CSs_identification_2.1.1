@@ -25,3 +25,5 @@ the results was stored into review_0408_handled0.txt_CSR_rules.csv, here is an e
 then, select the generated rules here as features to train machine learning classifier
 ### The SVM/NB Classifier result
 ![image](https://github.com/Felixtau/CSs_identification_2.1.1/raw/master/output%20results%20of%20classfier.PNG)
+the overall perfermance of these two classifers on identifing CSs in movie reviews is not as good as them in Jindal's results.
+We analyzed the possible reasons in dissertation in detail: 1. Imbalanced categories. 2. Small training data size. 3. This research does not add any manual rules into a classifier. 
